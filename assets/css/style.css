@@ -10,14 +10,14 @@
 /* Body section style start */
 body {
     background-color: #d9dcd6;
+    font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
 }
 /* Body section style end */
 
 
 /* Header section style start */
 .header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    padding: 20px;    
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -40,7 +40,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
