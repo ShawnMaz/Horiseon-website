@@ -4,20 +4,20 @@
     padding: 0;
     margin: 0;
 }
-/* Styles of entire page ends */
+/* Styles of entire page end */
 
 
 /* Body section style start */
 body {
     background-color: #d9dcd6;
 }
-/* Body section style ends */
+/* Body section style end */
 
 
 /* Header section style start */
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -29,6 +29,11 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+}
+
+.header a {    
+    color: #ffffff;
+    text-decoration: none;    
 }
 
 .header nav {
@@ -47,10 +52,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/* Header section style ends */
+/* Header section style end */
 
 
-/* Hero section style starts */
+/* Hero section style start */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,17 +64,14 @@ body {
     background-size: cover;
     background-position: center;
 }
-/* Hero section style ends */
+/* Hero section style end */
 
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* Content section start */
 p {
     font-size: 16px;
 }
+/* Content section end */
+
 
 
 
