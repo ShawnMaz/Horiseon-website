@@ -8,6 +8,7 @@ The purpose of this project is to refactor the code base of an existing site to 
 * [Acceptance Criteria for the Website](#acceptance-criteria-for-the-website)
 * [Mock Up](#mock-up)
 * [Challenges Faced](#challenges-faced)
+* [Deployed Site](#deployed-site)
 * [Credits](#credits)
 
 ## Client Requirements
@@ -30,6 +31,9 @@ The following image shows the websites appearance and functionality:
 
 ## Challenges Faced
 During the refactoring task, I initially started by fixing the HTML structure and content of a section and then fixing the style for that structure. But ran into problems with styling since some of the CSS codes repeats in other sections. So I fixed all the HTML structure and content first and then fixed the style sheet.
+
+## Deployed Site
+The refactored site can be accessed by clicking [here](https://shawnmaz.github.io/Horiseon-website/).
 
 ## Credits
 The starter code was provided by [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram). 
