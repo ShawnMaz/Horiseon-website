@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon Website Refactoring Project
 
 ## Description
 The purpose of this project is to refactor the code base of an existing site to simulate an On-the-job ticket. This project will also provide an opportunity to apply the HTML and CSS concpets that were introduced thus far.
